@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6399
     wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21962#Harvard-Classics-Volume-28Essays-English-and-American
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2007-06-29'
 gutenberg_type: Text
