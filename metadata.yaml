@@ -1,0 +1,41 @@
+_repo: Harvard-Classics-Volume-28Essays-English-and-American_21962
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Eliot, Charles William
+    birthdate: 1834
+    deathdate: 1926
+    gutenberg_agent_id: '6399'
+    url: http://www.gutenberg.org/2009/agents/6399
+    wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays'
+- !lcc 'PR'
+- !lcsh 'English essays'
+tableOfContents: "Jonathan Swift by WILLIAM MAKEPEACE THACKERAY\r\nWhat is a University?;\
+  \ Site of a University; University Life at Athens by JOHN HENRY NEWMAN\r\nThe Study\
+  \ of Poetry by MATTHEW ARNOLD\r\nSesame: of Kings' Treasuries; Lilies: of Queens'\
+  \ Gardens by JOHN RUSKIN\r\nJohn Milton by WALTER BAGEHOT\r\nScience and Culture\
+  \ by THOMAS HENRY HUXLEY\r\nRace and Language by EDWARD AUGUSTUS FREEMAN\r\nTruth\
+  \ of Intercourse; Samuel Pepys by ROBERT LOUIS STEVENSON\r\nOn the Elevation of\
+  \ the Laboring Classes by WILLIAM ELLERY CHANNING\r\nThe Poetic Principle by EDGAR\
+  \ ALLAN POE\r\nWalking by HENRY DAVID THOREAU\r\nAbraham Lincoln; Democracy by JAMES\
+  \ RUSSELL LOWELL."
+title: 'Harvard Classics Volume 28
+
+  Essays English and American'
+url: http://www.gutenberg.org/ebooks/21962
